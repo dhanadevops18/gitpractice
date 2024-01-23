@@ -7,5 +7,5 @@ class
 {
 	public static void main
 }
-hello from remote for testing and checking for copying file to new folder
+hello from remote for testing and checking for copying file to new folder magic prince
 :
