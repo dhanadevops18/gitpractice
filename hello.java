@@ -7,5 +7,5 @@ class
 {
 	public static void main
 }
-hello from remote for testing and checking1
+hello from remote for testing and checking1 wdwdwdwd
 :
