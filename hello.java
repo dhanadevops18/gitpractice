@@ -7,5 +7,5 @@ class
 {
 	public static void main
 }
-hello from remote for testing and checking for copying file
+hello from remote for testing and checking for copying file to new folder
 :
