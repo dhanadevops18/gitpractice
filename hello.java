@@ -1,11 +1,6 @@
-class hello
-{
-public static void main djc
-dwjfhwidhf
+public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
 }
-class
-{
-	public static void main
-}
-hello from remote for testing and checking for copying file to new folder magic prince  samith dhana
-:
